@@ -3,3 +3,5 @@ numpy
 voila
 ipywidgets
 ipyvuetify
+yfinance
+matplotlib
